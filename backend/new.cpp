@@ -35,5 +35,6 @@ int main(){
         }
         if(temp) cout<<"YES\n";
         else cout<<"NO\n";
+        // hello
     }
 }
